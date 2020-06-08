@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.ninja-cat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
